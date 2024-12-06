@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,M2002J9G,1732276345324,2024-11-22_11-52-25,Europe/Rome,android,1.39.0,9549df00-1cc9-45be-a13e-8e9f48ee4124,Accelerometer|Gravity|Gyroscope|Orientation|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10,false
